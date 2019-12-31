@@ -1,3 +1,5 @@
+					/*Write a program to perform Linear Search*/
+
 #include<stdio.h>
 #include<conio.h>
 
