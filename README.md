@@ -5,7 +5,7 @@
 Instructions: 
 
 1. Unzip the file.
-2. Paste the DOSBox_TurboC++ forlder in your C:\ drive where windows in installed.
+2. Paste the DOSBox_TurboC++ forlder in your C:\ drive and rename it as TurboC++.
 3. Go to C:\TurboC++\TurboC++ and there you will find DOSBox of *type- Application* create the shortcut for this on your desktop.
 4. Run DOSBox .
 5. It may automatically detect the path for bin folder
