@@ -2,7 +2,7 @@
 
 ### Download MS-Dos Box version-0.74 for Windows [here](https://drive.google.com/open?id=1ptV06g5P5zt3ryw1uI5zrxxg3TeMQCxA)
 
-##Instructions: 
+**Instructions:** 
 
 - Unzip the file.
 - Paste the DOSBox_TurboC++ forlder in your C:\ drive and rename it as TurboC++.
@@ -14,16 +14,16 @@
 
 ## Download Visual Studio Code for Windows [here](https://code.visualstudio.com/)
 
-####Instructions:
+**Instructions:**
 
 - Run the `VSCodeUserSetup.exe` and install the VSCode on your system.
 - For compiling C/C++ programs `INSTALL MinGW` compiler from [here](https://drive.google.com/file/d/1Hf33gIef6qCAtTZRlx9f-nL8fpnS4qdG/view?usp=sharing)
 - Run `mingw-get-setup.exe`, Check on all the packages and click on install. It may take some time.
 - Edit the system environment variables by pressing window button and search for `Edit the system environment variables`.
   - Click on Environment variables.
-  - Select Path for system variables.
+  - Select `Path` for system variables.
   - Click on Edit. 
-  - Edit the system variables and Paste this path: _C:\MinGW\bin_.
+  - Paste this path: _C:\MinGW\bin_.
 - Open the VSCode.
   - Click on _Extensions_.
   - Search for _C/C++ IntelliSense_.
@@ -34,6 +34,9 @@
   - Select Second option for C++ programs. 
  - To run the programs 
   - Click on Terminal.
-  - Write your program name followed by without extension `./`
+  - Write your program name without extension followed by `./`
   
-  Enjoy! Happy Coding!
+**Note:** There is a difference between DosBox and MinGW compiler. Programs that are compiled using DosBox may give error with MinGW and vice-versa, but with little bit         modification in the program the error can be resolved.
+
+
+Enjoy! Happy Coding!
