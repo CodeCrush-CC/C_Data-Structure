@@ -1,8 +1,8 @@
 # Data-Structures and Algorithms using-C/C++
 
-###### Download MS-Dos Box version-0.74 for Windows [here](https://drive.google.com/open?id=1ptV06g5P5zt3ryw1uI5zrxxg3TeMQCxA)
+### Download MS-Dos Box version-0.74 for Windows [here](https://drive.google.com/open?id=1ptV06g5P5zt3ryw1uI5zrxxg3TeMQCxA)
 
-Instructions: 
+##Instructions: 
 
 - Unzip the file.
 - Paste the DOSBox_TurboC++ forlder in your C:\ drive and rename it as TurboC++.
@@ -12,9 +12,9 @@ Instructions:
   OR 
 - You have to do it manually. By changing drive from Z:\ to C:\ using cd command and then cd C:\TurboC++\Disk\TurboC3\BIN
 
-###### Download Visual Studio Code for Windows [here](https://code.visualstudio.com/)
+## Download Visual Studio Code for Windows [here](https://code.visualstudio.com/)
 
-Instructions:
+####Instructions:
 
 - Run the `VSCodeUserSetup.exe` and install the VSCode on your system.
 - For compiling C/C++ programs `INSTALL MinGW` compiler from [here](https://drive.google.com/file/d/1Hf33gIef6qCAtTZRlx9f-nL8fpnS4qdG/view?usp=sharing)
