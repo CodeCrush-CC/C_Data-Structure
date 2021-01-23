@@ -1,6 +1,6 @@
 # Data-Structures and Algorithms using-C/C++
 
-### Download MS-Dos Box version-0.74 for Windows [here](https://drive.google.com/open?id=1ptV06g5P5zt3ryw1uI5zrxxg3TeMQCxA)
+## Download MS-DosBox version-0.74 for Windows [here](https://drive.google.com/open?id=1ptV06g5P5zt3ryw1uI5zrxxg3TeMQCxA)
 
 **Instructions:** 
 
